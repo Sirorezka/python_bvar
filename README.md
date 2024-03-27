@@ -1,6 +1,6 @@
 ### Description
 
-Custom implementation of BVAR model (Bayesian vector autoregression) using PyMC library. The implemented model was tested on macroeconomic data for forecasting inflation data.
+Custom implementation of BVAR model (Bayesian vector autoregression) using PyMC library. The implemented model was tested on macroeconomic data for forecasting inflation (CPI index) data.
 
 ### Model Specificaiton
 
