@@ -1,0 +1,5 @@
+.python-version
+.DS_Store
+.ipynb_checkpoints
+~*.xlsx
+__pycache__
