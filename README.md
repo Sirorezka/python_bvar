@@ -18,3 +18,6 @@ Several edits were made to improve existing PyMC BVAR implementations:
 ### PyMC model graph
 ![alt text](content/image.png)
 
+
+### Usefull links
+https://kevinkotze.github.io/ts-9-tut/
